@@ -1,4 +1,11 @@
-SAVE MEEEEEEEEEEEE
+**SAVE MEEEEEEEEEEEE**
+
+Hi, I'm a nerd who likes weird things.
+Would code for money.
+
+Favorite tech: C#.
+
+Hate most web technologies with a passion. *JS should be burned in the darkest, deepest flaming floor of hell.*
 
 <!--
 **honguyenminh/honguyenminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
