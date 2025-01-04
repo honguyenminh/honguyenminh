@@ -3,7 +3,7 @@
 Hi, I'm a nerd who likes weird things.
 Would code for money.
 
-Favorite tech: C#.
+Favorite tech: C#. Kotlin is pretty cool, I just hate the Android/Java build system.
 
 Hate most web technologies with a passion. *JS should be burned in the darkest, deepest flaming floor of hell.*
 
